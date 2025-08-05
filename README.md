@@ -9,9 +9,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshasolase" height="30" width="40" />
 </a>
 
-
-
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diksha-solase-4774b228b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/diksha-solase-4774b228b?trk=profile-badge">Diksha Solase</a></div>
               
 </p>
 
