@@ -16,9 +16,11 @@ To become a skilled Java developer and contribute to impactful, real-world softw
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/diksha-solase-4774b228b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dikshasolase)  
-[![LeetCode](https://shields.io)](https://leetcode.com/u/Q2Eq2afpXR/)
+<p align="left">
+  <a href="https://github.com/dikshasolase"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/diksha-solase-4774b228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Q2Eq2afpXR/"><img src="https://shields.io" alt="LeetCode"></a>
+</p>
 
 ---
 
