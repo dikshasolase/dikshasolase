@@ -18,6 +18,7 @@ To become a skilled Java developer and contribute to impactful, real-world softw
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/diksha-solase-4774b228b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dikshasolase)  
+[![LeetCode](https://shields.io)](https://leetcode.com/u/Q2Eq2afpXR/)
 
 ---
 
