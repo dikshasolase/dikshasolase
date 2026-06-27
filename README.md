@@ -15,7 +15,6 @@ To become a skilled Java developer and contribute to impactful, real-world softw
 ---
 
 ## 🤝 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/diksha-solase-4774b228b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
