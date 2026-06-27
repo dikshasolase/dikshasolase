@@ -14,12 +14,21 @@ To become a skilled Java developer and contribute to impactful, real-world softw
 
 ---
 
-### 🌐 Connect with Me  
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/dikshasolase"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/diksha-solase-4774b228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/Q2Eq2afpXR/"><img src="https://shields.io" alt="LeetCode"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diksha-solase-4774b228b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dikshasolase">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Q2Eq2afpXR/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+  <a href="mailto:dikshasolase4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
