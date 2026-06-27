@@ -55,19 +55,15 @@ To become a skilled Java developer and contribute to impactful, real-world softw
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikshasolase&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasolase&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikshasolase&show_icons=true&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasolase&layout=compact&theme=radical&hide_border=true"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshasolase&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshasolase&theme=radical&hide_border=true" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshasolase&theme=radical" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshasolase&theme=radical&hide_border=true" />
 </div>
-
 ---
 
 ## 🤝 Connect With Me
